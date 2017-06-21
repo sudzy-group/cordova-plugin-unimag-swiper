@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-unimag-swiper",
+  "version": "1.0.0",
+  "description": "Unimag swiper",
+  "cordova": {
+    "id": "cordova-plugin-unimag-swiper",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudzy-group/cordova-plugin-unimag-swiper.git"
+  },
+  "author": "Elizabethrego"
+}
